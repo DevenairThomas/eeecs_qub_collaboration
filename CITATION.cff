@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors: 
+  - family-names: McInerney
+    given-names: Tomás
+    orcid: 
+title: "Mr"
+version: 1
+doi: [![DOI](https://sandbox.zenodo.org/badge/502012253.svg)](https://sandbox.zenodo.org/badge/latestdoi/502012253)
+date-released: 10 June 2022
